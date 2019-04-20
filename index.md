@@ -3,12 +3,23 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a PhD candidate in the [de los Reyes](https://delosreyeslab.wordpress.ncsu.edu/) and [Ducoste](https://www.ccee.ncsu.edu/people/jducoste) labs at North Carolina State University.  I am interested in improving microbially mediated waste treatment by using skills at the intersection of ecology, microbial biotechnology, and software engineering.
+
+At home, I'm interested in good food, bad movies, and a variety of books.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Microbial community assembly
+- Combined CFD-biokinetic modelling
+- Shear-induced bioaggregation 
+- Enhanced pedagogical techniques
+
+You can read more details at my [research](/research) page.
+
+## Education
+
+- PhD Student, Civil Engineering, North Carolina State University (2019 expected)
+- MS, Environmental Engineering, North Carolina State University (2013)
+- BS, Electrical Engineering, Cornell University (2002)
+
+The full listing can be seen on my CV ([html](/cv),[pdf](/cv/cv.pdf)).
