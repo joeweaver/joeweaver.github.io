@@ -41,7 +41,7 @@ to go beyond memorizing a fact and must explore its implications. It’s
 particularly enlightening for the students when groups disagree; they often 'get
 it' while I help them try to integrate competing viewpoints. 
 
-Those sorts of disagreements can crop up during most activities, but I've found I can encourage them to happen most reliably by presenting graphs from actual publications and having groups attempt to interpret them. A particular favorite of mine is showing a microbiome census from the home (Dunn, XXX) which shows that the microbiomes of toilet seats and pillowcases are similar. Asking student groups to discuss *why* that might be the case, *how* they would test their hypotheses, and *what* the implications of the similarity are has invariably generated engaged, interesting, and often conflicting ideas.
+Those sorts of disagreements can crop up during most activities, but I've found I can encourage them to happen most reliably by presenting graphs from actual publications and having groups attempt to interpret them. A particular favorite of mine is showing a microbiome census from the home (Dunn, 2013) which shows that the microbiomes of toilet seats and pillowcases are similar. Asking student groups to discuss *why* that might be the case, *how* they would test their hypotheses, and *what* the implications of the similarity are has invariably generated engaged, interesting, and often conflicting ideas.
 
 Although I’m happy to have found this approach, it was mainly accidental. I am
 always trying to improve my teaching and the opportunity for specific, directed
