@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: A methodological framework for linking bioreactor function to microbial communities and environmental conditions
-excerpt: "Moving being population surveys towards building better reactors."
+excerpt: "Moving beyond population surveys towards building better reactors."
 pubtype: Article
 directlink: https://doi.org/10.1016/j.copbio.2015.02.002
 authors: [Francis L. de los Reyes III, Joseph E. Weaver, Ling Wang]

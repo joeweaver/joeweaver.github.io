@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Philosophy
-My goal as an educator is to provide students with fundamental information and help them build the skills to use it. I do this with alternating short chunks of traditional lectures and interactive, group based activities.
+My goal as an educator is to provide students with fundamental information and help them build the skills to use it. I do this by alternating short chunks of traditional lectures and interactive, group based activities.
 
 My [full teaching philosophy statement](/teaching/philosophy.html) explains the reasoning behind that viewpoint and the specifics of how I implement it.
 

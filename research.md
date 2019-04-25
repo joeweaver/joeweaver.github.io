@@ -11,12 +11,13 @@ I am particularly interested in microbially mediated waste treatment and enjoy c
 
 ## Current Projects
 ###  Microbial community assembly
-Activated sludge plants contain a diverse community of microbes which do the actual work of treating wastewater. We have some idea of what a 'good' microbial community looks like, but we can only in the broadest sense direct assembly towards a desired community. 
+Activated sludge plants contain a diverse community of microbes which do the actual work of treating wastewater. We have some idea of what a 'good' microbial community looks like, but our ability to direct assembly towards a desired community is limited. 
+
 
 As an engineer, I am trying to use ecological models of community assembly to better understand how to produce desired microbial populations. As an ecologist, I am interested in using wastewater treatment as a controllable, yet complex, system for exploring the same models.
 
 ### Combined CFD-biokinetic modelling
-Increased computing power has allowed computational fluid dynamics to flourish in many fields. In environmental engineering, it has been successful, but largely limited to hydraulic modelling. There is a recognized need to explore different methods of including biokinetic reactions and other models, such as sludge settling, into realistic models which can be computed in a practical amount of time.
+Increased computing power has allowed computational fluid dynamics to flourish in many fields. In environmental engineering, it has been successful, but also largely limited to hydraulic modelling. There is a recognized need to explore different methods of including biokinetic reactions and other processes, such as sludge settling, into realistic models which can be computed in a practical amount of time.
 
 Specifically, I am attempting to create an open, reproducible model which incorporates fluid flow, biological flocs, and ASM-style biokinetic models to predict reactor performance.
 

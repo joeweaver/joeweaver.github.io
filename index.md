@@ -14,11 +14,11 @@ At home, I'm interested in good food, bad movies, and a variety of books.
 - Shear-induced bioaggregation 
 - Enhanced pedagogical techniques
 
-You can read more details at my [research](/research) page.
+You can read more details on my [research](/research) page.
 
 ## Education
 
-- PhD Student, Civil Engineering, North Carolina State University (2019 expected)
+- PhD Candidate, Civil Engineering, North Carolina State University (2019 expected)
 - MS, Environmental Engineering, North Carolina State University (2013)
 - BS, Electrical Engineering, Cornell University (2002)
 
