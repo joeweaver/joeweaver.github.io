@@ -23,14 +23,17 @@ I believe that the best course of action is for students with complementary
 learning styles to work together. My most common approach is to alternate short
 lecture periods with small group discussions in which students
 apply what they just learned to either solve a concrete problem or evaluate a
-specific statement. I often try to end the session by having groups compare
-their conclusions in an all-class discussion. 
+specific statement. My [teaching page]({{site.url}}/teaching) gives examples of my approach, including lecture slides which deliver facts related to specific learning objectives and activities designed to reinforce the use of those facts.
 
 My major task during these discussions is to circulate between groups and
 provide direction so that the various personalities within the group interact in
 complementary way. Active learners get to dive into a problem, while reflective
 learners get a moment to think. Non-majors get insights from majors, while
 majors are reminded of the perspectives held by people outside their discipline. 
+I often ask students to take a minute at the end of a class to write down anything that was confusing, fun, or clear and turn it in. It is very common for me to read that my active learners enjoyed the chance to make their learning concrete by applying it immediately. Feedback on the very same activity has shown that my reflective learners enjoy the chance to 'take a breath', or 'talk it over with my neighbor'.
+
+I favor this approach because I have found that students are engaged when they are
+actively involved in discussion, and as I have learned from other educators formally observing me in the classroom, I am skilled at creating an environment which is relaxed yet on topic.
 
 There are many benefits to these discussions, but their primary goal is to cause
 students to work out the ‘why’. By challenging them in this way, they are forced
@@ -38,8 +41,7 @@ to go beyond memorizing a fact and must explore its implications. It’s
 particularly enlightening for the students when groups disagree; they often 'get
 it' while I help them try to integrate competing viewpoints. 
 
-I favor this approach because I have found that students are engaged when I am
-engaged and, as I have learned from other educators observing me in the classroom, I am skilled at creating a discussion environment which is relaxed yet on topic.
+Those sorts of disagreements can crop up during most activities, but I've found I can encourage them to happen most reliably by presenting graphs from actual publications and having groups attempt to interpret them. A particular favorite of mine is showing a microbiome census from the home (Dunn, XXX) which shows that the microbiomes of toilet seats and pillowcases are similar. Asking student groups to discuss *why* that might be the case, *how* they would test their hypotheses, and *what* the implications of the similarity are has invariably generated engaged, interesting, and often conflicting ideas.
 
 Although I’m happy to have found this approach, it was mainly accidental. I am
 always trying to improve my teaching and the opportunity for specific, directed
