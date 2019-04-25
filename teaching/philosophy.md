@@ -27,7 +27,7 @@ specific statement. My [teaching page]({{site.url}}/teaching) gives examples of 
 
 My major task during these discussions is to circulate between groups and
 provide direction so that the various personalities within the group interact in
-complementary way. Active learners get to dive into a problem, while reflective
+complementary ways. Active learners get to dive into a problem, while reflective
 learners get a moment to think. Non-majors get insights from majors, while
 majors are reminded of the perspectives held by people outside their discipline. 
 I often ask students to take a minute at the end of a class to write down anything that was confusing, fun, or clear and turn it in. It is very common for me to read that my active learners enjoyed the chance to make their learning concrete by applying it immediately. Feedback on the very same activity has shown that my reflective learners enjoy the chance to 'take a breath', or 'talk it over with my neighbor'.
@@ -41,7 +41,7 @@ to go beyond memorizing a fact and must explore its implications. It’s
 particularly enlightening for the students when groups disagree; they often 'get
 it' while I help them try to integrate competing viewpoints. 
 
-Those sorts of disagreements can crop up during most activities, but I've found I can encourage them to happen most reliably by presenting graphs from actual publications and having groups attempt to interpret them. A particular favorite of mine is showing a microbiome census from the home (Dunn, 2013) which shows that the microbiomes of toilet seats and pillowcases are similar. Asking student groups to discuss *why* that might be the case, *how* they would test their hypotheses, and *what* the implications of the similarity are has invariably generated engaged, interesting, and often conflicting ideas.
+Those sorts of disagreements can crop up during most activities, but I've found I can encourage them to happen most reliably by presenting graphs from actual publications and having groups attempt to interpret them. A particular favorite of mine is showing a microbiome census from the home (Dunn, 2013) which shows that both toilet seats and pillowcases harbor similar microbial communities. Asking student groups to discuss *why* that might be the case, *how* they would test their hypotheses, and *what* the implications of the similarity are has invariably generated engaged, interesting, and often conflicting ideas.
 
 Although I’m happy to have found this approach, it was mainly accidental. I am
 always trying to improve my teaching and the opportunity for specific, directed

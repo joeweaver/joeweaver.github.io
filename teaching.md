@@ -10,14 +10,14 @@ My goal as an educator is to provide students with fundamental information and h
 My [full teaching philosophy statement](/teaching/philosophy.html) explains the reasoning behind that viewpoint and the specifics of how I implement it.
 
 ## Training
-In addition to the usual mentoring from my advisors, I have also received formal pedagogical training. Some of the formal training has occurred through workshops, such as those offered at [AEESP (Association of Environmental Engineering and Science Professors)](https://aeesp.org/) conferences. A large portion of my training, however, has come from my work within the NCSU [Teaching and Communication](https://grad.ncsu.edu/students/professional-development/teaching-programs/) certificate program, which was specifically developed to train graduate students and postdocs to teach more effectively and communicate more clearly. For completeness, I have included a full list of workshops attended at the bottom of this page.
+In addition to the usual mentoring from my advisors, I have also received formal pedagogical training. Some of it has occurred through workshops, such as those offered at [AEESP (Association of Environmental Engineering and Science Professors)](https://aeesp.org/) conferences. A large portion of my training, however, has come from my work towards the NCSU [Teaching and Communication](https://grad.ncsu.edu/students/professional-development/teaching-programs/) certificate program, which was specifically developed to train graduate students and postdocs to teach more effectively and communicate more clearly. For completeness, I have included a full list of workshops attended at the bottom of this page.
 
 ## Experience
 As a TA, I have logged many hours both lecturing and developing lecture materials for undergraduate courses, particularly [CE 484 (Water Supply and Wastewater Systems)](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2017:8:1:CE:484:001). I have also given guest lectures in various courses. For example, I annually provide the lecture about metagenomic data visualization in the graduate level [BIT 477/577 (Metagenomics)](http://biotech.ncsu.edu/system/courses/pdfs/000/000/037/original/BIT477_F17_Metagenomics_slide.pdf) course.
 
 Beyond lectures, I have experience facilitating hands-on activities, such as the microscopy/gram staining lab which is part of [CE 373 (Fundamentals of Environmental Engineering)](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2017:8:1:CE:373:001) and also activities for the annual Boy Scouts and Girl Scouts of America Engineering days hosted on campus.
 
-Finally, I have individual instructional experience both as a formal tutor and as a mentor to many undergraduate research assistants, often through our [RISE (Research Internship Summer Experience)](9https://sites.google.com/a/ncsu.edu/rise/) program. 
+Finally, I have individual instructional experience both as a formal tutor and as a mentor to many undergraduate research assistants, often through our [RISE (Research Internship Summer Experience)](https://sites.google.com/a/ncsu.edu/rise/) program. 
 
 ## Examples
 ### Lecture Style
