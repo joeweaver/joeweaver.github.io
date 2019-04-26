@@ -125,14 +125,14 @@ CE 378 - Environmental chemistry and microbiology. Facilitated lab on identifyin
 `Summer 2016 - 2018`
 Research Internship Summer Experience (RISE) Program. Responsible for training and mentoring undergraduate researchers while they performed their own summer research culuminating in poster presentation.
 
+`2017` 
+Formed and coordinated prelim study group for graduate student cohort.
+
 `2013` NCSU Spring Undergraduate  Research *Thermal Acclimation of Mesosphilic Inocula for Thermophilic Biochemical Methane
 Potential Tests* Mentored undegraduate in writing mini-proposal, designing experiment, and communicating results in university-wide poster session. 
 
 `2011 thru 2018` 
 Multiple undergraduate research assistants.
-
-`2017` 
-Formed and coordinated prelim study group for graduate student cohort.
 
 ## Community
 ### Peer Review
