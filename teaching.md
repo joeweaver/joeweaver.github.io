@@ -48,7 +48,7 @@ At the end of the simulation, participants had a physical slide which showed bot
 It was particularly gratifying to see how this captured the attention of non-majors and how pleased they were to be able to answer some simple design questions about a simplified wastewater reactor.
 
 #### Middle schoolers engineering a landfill liner
-Perhaps the most fun (and certainly messiest) activity I've developed was for our annual Boy Scouts of America engineering day. In this activity, scouts must design, build, and test a landfill liner system which can contain colored 'leachate' inside a perforated 2 liter soda bottle. The response to this was such that I ended up writing it up as a [lesson plan]({{site.url}}/Classroom_Activity-Landfill_Liner_Design.docx) which I attempted to align with North Carolina educational standards.
+Perhaps the most fun (and certainly messiest) activity I've developed was for our annual Boy Scouts of America engineering day. In this activity, scouts must design, build, and test a landfill liner system which can contain colored 'leachate' inside a perforated 2 liter soda bottle. The response to this was such that I ended up writing it up as a [lesson plan]({{site.url}}/teaching/Classroom_Activity-Landfill_Liner_Design.docx) which I attempted to align with North Carolina educational standards.
 
 ### Complete List of Pedagogical Training Attended
 * (2017) Introduction to teaching.
