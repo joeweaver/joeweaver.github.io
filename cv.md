@@ -49,6 +49,9 @@ A list containing abstracts and links to fulltext is [also available
 online]({{ site.url }}/publications/).
 
 `2019` 
+Wu L, Ning D, Zhang B, Li Y, Zhang P, Shan X, Zhang Q, Brown MR, Li Z, Van Nostrand JD, Ling F, Xiao N, Zhang Y, Vierheilig J, Wells GF, Yang Y, Deng Y, Tu Q, Wang A, Acevedo D, Agullo-Barcelo M, Andersen GL, de Araujo JC, Boehnke KF, Bond P, Bott CB, Bovio P, Brewster RK, Bux F, Cabezas A, Cabrol L, Chen S, Etchebehere C, Ford A, Frigon D, Gómez JS, Griffin JS, Gu AZ, Habagil M, Hale L, Hardeman SD, Harmon M, Horn H, Hu Z, Jauffur S, Johnson DR, Keucken A, Kumari S, Leal CD, Lebrun LA, Lee J, Lee M, Lee ZMP, Li M, Li X, Liu Y, Luthy RG, Mendonça-Hagler LC, de Menezes FGR, Meyers AJ, Mohebbi A, Noyola A, Oehmen A, Palmer A, Parameswaran P, Park J, Patsch D, Reginatto V, de los Reyes FL, Rossetti S, Sidhu J, Sloan WT, Smith K, de Sousa OV, Stephens K, Tian R, Tooker NB, De los Cobos Vasconcelos D, Wakelin S, Wang B, Weaver JE, West S, Wilmes P, Woo S-G, Wu J-H, Wu L, Xi C, Xu M, Yan T, Yang M, Young M, Yue H, Zhang Q, Zhang W, Zhang Y, Zhou H, Zhang T, He Z, Keller J, Nielsen PH, Alvarez PJJ, Criddle CS, Wagner M, Tiedje JM, He Q, Curtis TP, Stahl DA, Alvarez-Cohen L, Rittmann BE, Wen X and Zhou J. "*Global diversity and biogeography of bacterial communities in wastewater treatment plants*". Nature Microbiology 4, 1183–1195 (2019) doi:[10.1038/s41564-019-0426-5.](https://www.doi.org/10.1038/s41564-019-0426-5) \[[bib](_site.url/bib/wu2019GWMC.bib)\]
+
+`2019` 
 Weaver, JE and Wang, L  and de los Reyes III, FL and Barlaz MA "*Systems and Methods for Studying Microbial Processes and Communities in Landfills*" in *Understanding Terrestrial Microbial Communities* Hurst, CJ ed. Springer ISBN:978-3-030-10777-2 \[[bib]({{ site.url}}/bib/weaver2019landfillchapter.bib)\]
 
 `2019` 
@@ -73,6 +76,9 @@ Weaver, JE, "*Effect of Inoculum Source on the Rate and Extent of Anaerobic
 Biodegradation*" Under the direction of Barlaz, MA and de los Reyes III, FL. MS Thesis, North Carolina State University, Raleigh, NC. \[[bib]({{ site.url}}/bib/weaver2013effect.bib)\]
 
 ## Presentations
+
+`2019`
+*Microbial Community Assembly in Two Full Scale Aerobic Basins Containing Identical Starting Populations: Drivers and Implications*, 8th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2019), Hiroshima, Japan.
 
 `2016`
 *Inducing aerobic granular sludge formation through unevenly distributed hydrodynamic shear rates* NC AWWA-WEA, Raleigh, NC.
@@ -176,7 +182,11 @@ BIT Capstone Seminar.
 `2015`
 BIT Research Ethics Seminar.
 
-### Fundamentals in Teaching (FIT) and Teaching and Communication Certificate
+### Pedagogy
+
+`2019`
+Teaching and Communication Certificate (Completed)
+
 `2017`
 Introduction to Teaching.
 
