@@ -184,7 +184,7 @@ Chair, program committee. NCSU CCEE WREE Graduate Research Symposium.
 de los Reyes III, Francis L. and Ducoste, Joel J. *Using Microbial Ecology Theory to Understand Microbial Community Dynamics and Improve Function of Anaerobic Bioreactors.* NSF.***(Awarded)***
 
 `2017`
-de los Reyes III, Francis L. *Understanding substrate-community interactiosn to develop resilient anaerobic digestion of food waste.* EREF. ***(Awarded)***
+de los Reyes III, Francis L. *Understanding substrate-community interactions to develop resilient anaerobic digestion of food waste.* EREF. ***(Awarded)***
 
 `2016`
 de los Reyes III, Francis L. and Ducoste, Joel J. *WERF: Microbial ecology theory as a framework for understanding and improving anaerobic co-digestion.* NSF.
