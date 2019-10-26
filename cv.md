@@ -55,14 +55,14 @@ Wu L, Ning D, Zhang B, Li Y, Zhang P, Shan X, Zhang Q, Brown MR, Li Z, Van Nostr
 Weaver, JE and Wang, L  and de los Reyes III, FL and Barlaz MA "*Systems and Methods for Studying Microbial Processes and Communities in Landfills*" in *Understanding Terrestrial Microbial Communities* Hurst, CJ ed. Springer ISBN:978-3-030-10777-2 \[[bib]({{ site.url}}/bib/weaver2019landfillchapter.bib)\]
 
 `2019` 
-Weaver, JE and Willaims, JC and Ducoste JJ and de los Reyes III, FL "*Measuring the Shape and Size of Activated Sludge Particles Immobilized in Agar with an Open Source Software Pipeline*" Journal of Visualized Experiments v143, e58963. doi:[10.3791/58963](https://doi.org/10.3791/58963) \[[bib]({{ site.url}}/bib/weaver2019agarsludge.bib)\]
+Weaver, JE and Willaims, JC and Ducoste, JJ and de los Reyes III, FL "*Measuring the Shape and Size of Activated Sludge Particles Immobilized in Agar with an Open Source Software Pipeline*" Journal of Visualized Experiments v143, e58963. doi:[10.3791/58963](https://doi.org/10.3791/58963) \[[bib]({{ site.url}}/bib/weaver2019agarsludge.bib)\]
 
 `2018`
- Weaver, JE and Hong, H and Ducoste JJ and de los Reyes III, FL "*Controlling
+ Weaver, JE and Hong, H and Ducoste, JJ and de los Reyes III, FL "*Controlling
 aerobic biological floc size using Couette-Taylor bioreactors*" Water Research v147, pp 177-183. doi:[10.1016/j.watres.2018.09.060](https://doi.org/10.1016/j.watres.2018.09.060) \[[bib]({{ site.url}}/bib/weaver2018controlling.bib)\]
 
 `2016`
-Weaver, JE and Ducoste JJ and de los Reyes III, FL "*Fluid shear variation
+Weaver, JE and Ducoste, JJ and de los Reyes III, FL "*Fluid shear variation
 potentially plays a role in aerobic granular sludge formation*" Proceedings of
 the Water Environment Federation, WEFTEC 2016, v2016 i11 pp 5737-5744. doi:[10.2175/193864716819706734)](https://doi.org/10.2175/193864716819706734) \[[bib]({{ site.url}}/bib/weaver2016fluid.bib)\]
 
@@ -74,6 +74,12 @@ conditions.*" Current Opinion in Biotechnlogy v33, pp 112-118. doi:[10.1016/j.co
 `2013`
 Weaver, JE, "*Effect of Inoculum Source on the Rate and Extent of Anaerobic
 Biodegradation*" Under the direction of Barlaz, MA and de los Reyes III, FL. MS Thesis, North Carolina State University, Raleigh, NC. \[[bib]({{ site.url}}/bib/weaver2013effect.bib)\]
+
+### In Preparation
+Weaver, JE and Ducoste, JJ and de los Reyes III, FL "*Stochastic and niche-driven community assembly between two full-scale wastewater
+treatment plants With initially identical microbial communities*"
+
+Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fluid dynamics and biokinetic framework for simulating aerobic wastewater treatment using loosely coupled sequential components"
 
 ## Presentations
 
@@ -95,6 +101,13 @@ Biodegradation*" Under the direction of Barlaz, MA and de los Reyes III, FL. MS 
 `2013`
 *Development of a protocol to test the anaerobic biodegradability of plastics.*
 (Department nominated poster presenter) NCSU Graduate Student Symposium, Raleigh, NC.
+
+## Certificates
+`2019`
+Teaching and Communication Certificate (Completed)
+
+`2019`
+NCSU Writing Certificate (Expected)
 
 ## Teaching
 ### Teaching assistant
@@ -152,6 +165,12 @@ Boy Scouts of America engineering day
 Girl Scouts of America  engineering day
 
 ### Service
+`2019`
+Lab group representative, Environmental Engineering Lab Condition and Safety Committee
+
+`2019`
+Invited panel member, “Tell It Like It Is”: Teaching Assistant Discussion Panel for the NCSU campuswide New TA workshop
+
 `2015`
 Chair, program committee. NCSU CCEE WREE Graduate Research Symposium. 
 
@@ -183,10 +202,6 @@ BIT Capstone Seminar.
 BIT Research Ethics Seminar.
 
 ### Pedagogy
-
-`2019`
-Teaching and Communication Certificate (Completed)
-
 `2017`
 Introduction to Teaching.
 
@@ -208,22 +223,35 @@ Managing Conflict in the Classroom.
 `2017`
 Teaching Assistant Orientation Symposium.
 
-### Other
-`2018`
-Broadening the Impacts of Your Research workshop.
-
-`2018`
-Best Practices in Software Citation seminar.
-
-`2018`
-Grant Writing and Broader Impact workshop
-
 `2017`
 Moodle Essentials, DELTA workshop.
 
 `2017`
 AEESP Strategies, Tools, and Tips for Teaching in Environmental Engineering and Sciences.
 
+### Grant writing
+`2019` 
+September mini-course on grant identification, drafting, and submission
+
+`2018`
+Broadening the Impacts of Your Research workshop.
+
+### Other
+
+`2019`
+Composing Cover Letters for Academic Jobs
+
+`2019`
+How to deliver a Job Talk
+
+`2019` 
+3D Scanning Studio Orientation
+
+`2019`
+How to Write Concise Sentences
+
+`2018`
+Best Practices in Software Citation seminar.
 `2017`
 Title IX Training Certificate.
 
