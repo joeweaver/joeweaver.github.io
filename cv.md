@@ -79,7 +79,7 @@ Biodegradation*" Under the direction of Barlaz, MA and de los Reyes III, FL. MS 
 Weaver, JE and Ducoste, JJ and de los Reyes III, FL "*Stochastic and niche-driven community assembly between two full-scale wastewater
 treatment plants With initially identical microbial communities*"
 
-Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fluid dynamics and biokinetic framework for simulating aerobic wastewater treatment using loosely coupled sequential components"
+Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fluid dynamics and biokinetic framework for simulating aerobic wastewater treatment using loosely coupled sequential components*"
 
 ## Presentations
 
