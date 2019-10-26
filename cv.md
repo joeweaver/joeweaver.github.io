@@ -252,6 +252,7 @@ How to Write Concise Sentences
 
 `2018`
 Best Practices in Software Citation seminar.
+
 `2017`
 Title IX Training Certificate.
 
