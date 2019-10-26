@@ -7,7 +7,7 @@ PhD Candidate in Civil Engineering, North Carolina State University
 
 ## Education and Employment
 
-`2013 - 2019 (expected)`
+`2013 - 2020 (expected)`
 __North Carolina State University__
 PhD, Civil Engineering. Minor in Biotechnology.
 
