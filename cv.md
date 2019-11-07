@@ -20,7 +20,7 @@ __Sonalysts, Inc__
 Programmer/Analyst
 
 `1997 - 2002`
-__Cornell Univeristy__
+__Cornell University__
 BS, Electrical Engineering
 
 ## Awards and Fellowships
@@ -55,7 +55,7 @@ Wu L, Ning D, Zhang B, Li Y, Zhang P, Shan X, Zhang Q, Brown MR, Li Z, Van Nostr
 Weaver, JE and Wang, L  and de los Reyes III, FL and Barlaz MA "*Systems and Methods for Studying Microbial Processes and Communities in Landfills*" in *Understanding Terrestrial Microbial Communities* Hurst, CJ ed. Springer ISBN:978-3-030-10777-2 \[[bib]({{ site.url}}/bib/weaver2019landfillchapter.bib)\]
 
 `2019` 
-Weaver, JE and Willaims, JC and Ducoste, JJ and de los Reyes III, FL "*Measuring the Shape and Size of Activated Sludge Particles Immobilized in Agar with an Open Source Software Pipeline*" Journal of Visualized Experiments v143, e58963. doi:[10.3791/58963](https://doi.org/10.3791/58963) \[[bib]({{ site.url}}/bib/weaver2019agarsludge.bib)\]
+Weaver, JE and Williams, JC and Ducoste, JJ and de los Reyes III, FL "*Measuring the Shape and Size of Activated Sludge Particles Immobilized in Agar with an Open Source Software Pipeline*" Journal of Visualized Experiments v143, e58963. doi:[10.3791/58963](https://doi.org/10.3791/58963) \[[bib]({{ site.url}}/bib/weaver2019agarsludge.bib)\]
 
 `2018`
  Weaver, JE and Hong, H and Ducoste, JJ and de los Reyes III, FL "*Controlling
