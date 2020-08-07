@@ -24,6 +24,21 @@ __Cornell University__
 BS, Electrical Engineering
 
 ## Awards and Fellowships
+`2020`
+Postdoctoral Research Fellowship in Biology, National Science Foundation. NSF
+Award 2007151.
+
+`2020` 
+W. Wesley Eckenfelder Graduate Research Award for 2020 from the American
+Academy of Environmental Engineers.
+
+`2019`
+NCSU College of Engineering Travel Award. Covering travel to the IWA MEWE
+2019 Conference, Hiroshima.
+
+`2019` NCSU Graduate Student Association Travel Award. Covering travel to the IWA
+MEWE 2019 Conference, Hiroshima.
+
 `2014-2017`
 GAANN Fellow, Microbial Biotechnology Training Program. (US Department of
 Education Graduate Assistance in Areas of National Need Award \# P200A140020)
@@ -81,8 +96,9 @@ treatment plants With initially identical microbial communities*"
 
 Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fluid dynamics and biokinetic framework for simulating aerobic wastewater treatment using loosely coupled sequential components*"
 
-## Presentations
+## Presentations and Conference Invitations
 
+### Presented
 `2019`
 *Microbial Community Assembly in Two Full Scale Aerobic Basins Containing Identical Starting Populations: Drivers and Implications*, 8th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2019), Hiroshima, Japan.
 
@@ -102,12 +118,13 @@ Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fl
 *Development of a protocol to test the anaerobic biodegradability of plastics.*
 (Department nominated poster presenter) NCSU Graduate Student Symposium, Raleigh, NC.
 
+### Invited Conferences
+`2020`
+Microbial ecology for engineering biology, the Theo Murphy international scientific meeting of The Royal Society, Buckinghamshire UK. *n.b. conference cancelled due to COVID-19*
+
 ## Certificates
 `2019`
 Teaching and Communication Certificate (Completed)
-
-`2019`
-NCSU Writing Certificate (Expected)
 
 ## Teaching
 ### Teaching assistant
@@ -165,7 +182,7 @@ Boy Scouts of America engineering day
 Girl Scouts of America  engineering day
 
 ### Service
-`2019`
+`2019-2020`
 Lab group representative, Environmental Engineering Lab Condition and Safety Committee
 
 `2019`
@@ -179,7 +196,12 @@ Chair, program committee. NCSU CCEE WREE Graduate Research Symposium.
 * Water Environment Federation (WEF)
 * North Carolina American Water Works Association - Water Environment Association (NC AWWA-WEA)
 
-## Grantwriting Contribution Experience
+## Grantwriting 
+### As Primary Investigator
+`2019`
+Weaver, Joseph E. *Individual Based Modelling of Chemically Mediated Microbial Interactions in Biofilms.* NSF-Postdoctoral Research Fellowship in Biology ***(Awarded NSF 2007151)***
+
+### Contributing writer
 `2017`
 de los Reyes III, Francis L. and Ducoste, Joel J. *Using Microbial Ecology Theory to Understand Microbial Community Dynamics and Improve Function of Anaerobic Bioreactors.* NSF.***(Awarded)***
 
