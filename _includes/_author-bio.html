@@ -15,6 +15,7 @@
     {% if author.street1. %}{{ author.street1 }}</br>{% endif %}
     {% if author.street2. %}{{ author.street2 }}</br>{% endif %}
     {% if author.city_state_zip %}{{ author.city_state_zip }}</br>{% endif %}
+    {% if author.pronouns %}{{ author.pronouns }}</br>{% endif %}
  </p>
  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
