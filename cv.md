@@ -3,11 +3,11 @@ layout: resume
 ---
 [PDF version](cv.pdf)
 ## Currently
-PhD Candidate in Civil Engineering, North Carolina State University
+NSF Postdoctoral Fellow at Newcastle University.
 
 ## Education and Employment
 
-`2013 - 2020 (expected)`
+`2013 - 2021`
 __North Carolina State University__
 PhD, Civil Engineering. Minor in Biotechnology.
 
