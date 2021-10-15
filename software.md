@@ -9,6 +9,7 @@ I have started to make the code I write [publicly available in git repositories]
 
 Points of (possible) interest include:
 
+* although I'm not the main developer, I've been known to hack on [NUFEB](https://github.com/nufeb/NUFEB), an agent based model of microbial communities
 * an [application](https://github.com/joeweaver/tidysol) to create sensibly formatted text from a commercial CFD program's exported data
 * an [ImageJ macro and example code](https://github.com/joeweaver/SParMorIA-Sludge-Particle-Morphological-Image-Analysis) used to analyze activated sludge particle morphologies
 * a [Jupyter notebook-based](https://github.com/joeweaver/get_to_know_phyloseq) system to interactively teach basic metagenomic data analysis and visualization.
