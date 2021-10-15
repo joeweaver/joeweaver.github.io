@@ -3,13 +3,14 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a PhD candidate in the [de los Reyes](https://delosreyeslab.wordpress.ncsu.edu/) and [Ducoste](https://www.ccee.ncsu.edu/people/jducoste) labs at North Carolina State University.  I am interested in improving microbially mediated waste treatment by using skills at the intersection of ecology, microbial biotechnology, and software engineering.
+I am an NSF Postdoctoral Fellow hosted at Newcastle University with Dr. Tom Curtis. I am interested in improving microbially mediated systems, especially those concerning waste treatment, by using skills at the intersection of ecology, microbial biotechnology, and software engineering.
 
 At home, I'm interested in good food, bad movies, and a variety of books.
 
 ## Current Interests and Projects:
 
 - Microbial community assembly
+- Agent based modelling of microbial communities
 - Combined CFD-biokinetic modelling
 - Shear-induced bioaggregation 
 - Enhanced pedagogical techniques
@@ -18,7 +19,7 @@ You can read more details on my [research](/research) page.
 
 ## Education
 
-- PhD Candidate, Civil Engineering, North Carolina State University (2019 expected)
+- PhD Candidate, Civil Engineering, North Carolina State University (2021)
 - MS, Environmental Engineering, North Carolina State University (2013)
 - BS, Electrical Engineering, Cornell University (2002)
 
