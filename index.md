@@ -20,7 +20,7 @@ You can read more details on my [research](/research) page.
 
 ## Education
 
-- PhD Candidate, Civil Engineering, North Carolina State University (2021)
+- PhD, Civil Engineering, North Carolina State University (2021)
 - MS, Environmental Engineering, North Carolina State University (2013)
 - BS, Electrical Engineering, Cornell University (2002)
 
