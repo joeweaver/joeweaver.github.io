@@ -11,6 +11,7 @@ At home, I'm interested in good food, bad movies, and a variety of books.
 
 - Microbial community assembly
 - Agent based modelling of microbial communities
+- Type VI Secretion Systems (a.k.a. poison-tipped bacterial harpoons)
 - Combined CFD-biokinetic modelling
 - Shear-induced bioaggregation 
 - Enhanced pedagogical techniques
