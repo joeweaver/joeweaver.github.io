@@ -111,43 +111,39 @@ Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fl
 
 ### Presented
 `2022` 
-*Fit or just luck? Using agent-based biofilm models to quantify the selection advantage required to overcome negative selection via random drift.* 1St Annual Microbiology Oylmpiad Symposium, Newcastle, UK
+Weaver, J.E. *Fit or just luck? Using agent-based biofilm models to quantify the selection advantage required to overcome negative selection via random drift.* 1St Annual Microbiology Oylmpiad Symposium, Newcastle, UK
 
 `2021` 
-*Drift Matters, Until it Doesn’t: Quantifying the Fitness Advantage Necessary to Overcome Negative Drift Selection using an Agent-Based Model of Spatially Competing Heterotrophic Bacteria*, 9th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2021), Delft, Netherlands. (presented virtually)
+Weaver, J.E. *Drift Matters, Until it Doesn’t: Quantifying the Fitness Advantage Necessary to Overcome Negative Drift Selection using an Agent-Based Model of Spatially Competing Heterotrophic Bacteria*, 9th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2021), Delft, Netherlands. (presented virtually)
 
 `2021`
-*Implementing a Single Modeling Approach that Combines Computational Fluid Dynamics (CFD), Biokinetics, Micro-floc Scale Diffusion, and Particle Sizes.* WEFTEC, Chicago IL. (n.b. J. Ducoste presented on Weaver’s behalf due to conference schedule conflicts)
+Weaver, J.E., de los Reyes III, F.L. and Ducoste J.J. *Implementing a Single Modeling Approach that Combines Computational Fluid Dynamics (CFD), Biokinetics, Micro-floc Scale Diffusion, and Particle Sizes.* WEFTEC, Chicago IL. (n.b. J. Ducoste presented on Weaver’s behalf due to conference schedule conflicts)
 
 `2019`
-*Microbial Community Assembly in Two Full Scale Aerobic Basins Containing Identical Starting Populations: Drivers and Implications*, 8th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2019), Hiroshima, Japan.
+Weaver, J.E., and de los Reyes III, F.L. *Microbial Community Assembly in Two Full Scale Aerobic Basins Containing Identical Starting Populations: Drivers and Implications*, 8th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2019), Hiroshima, Japan.
 
 `2016`
-*Inducing aerobic granular sludge formation through unevenly distributed hydrodynamic shear rates* NC AWWA-WEA, Raleigh, NC.
+Weaver, J.E., de los Reyes III, F.L. and Ducoste J.J. *Inducing aerobic granular sludge formation through unevenly distributed hydrodynamic shear rates* NC AWWA-WEA, Raleigh, NC.
 
 `2016`
-*Fluid shear variation potentially plays a role in aerobic granular sludge formation.* WEFTEC, New Orleans, LA.
+Weaver, J.E., de los Reyes III, F.L. and Ducoste J.J. *Fluid shear variation potentially plays a role in aerobic granular sludge formation.* WEFTEC, New Orleans, LA.
 
 `2015`
-*Microbial Ecology of Aerobic Wastewater Treatment: Community assembly during full scale startup and dynamics of bench scale granulation.* NCSU MBTP Symposium, Raleigh, NC.
+Weaver, J.E., and de los Reyes III, F.L. *Microbial Ecology of Aerobic Wastewater Treatment: Community assembly during full scale startup and dynamics of bench scale granulation.* NCSU MBTP Symposium, Raleigh, NC.
 
 `2015`
-*Effect of Inoculum source on the rate and extent of anaerobic biodegradation* AWMA National Conference, Raleigh, NC.
-
-`2013`
-*Development of a protocol to test the anaerobic biodegradability of plastics.*
-(Department nominated poster presenter) NCSU Graduate Student Symposium, Raleigh, NC.
+Weaver, J.E., and Barlaz, M.A. *Effect of Inoculum source on the rate and extent of anaerobic biodegradation* AWMA National Conference, Raleigh, NC.
 
 ### Invited Seminars and Conferences
 
 `2022`
-*Inferring Drift Prevalence Using Agent-Based Biofilm Models and Its Implications in Environmental Biotechnology* Les Ecologistes Seminar Series, Simon Fraser University, Burnaby, CA (presented remotely)
+Weaver, J.E. *Inferring Drift Prevalence Using Agent-Based Biofilm Models and Its Implications in Environmental Biotechnology* Les Ecologistes Seminar Series, Simon Fraser University, Burnaby, CA (presented remotely)
 
 `2022` 
 Session Chair. Microbial ecology for engineering biology, the Theo Murphy international scientific meeting of The Royal Society, Buckinghamshire UK. 
 
 `2021` 
-*From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.* Environmental Engineering Research Group Seminar Series, Newcastle University, Newcastle UK
+Weaver, J.E. *From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.* Environmental Engineering Research Group Seminar Series, Newcastle University, Newcastle UK
 
 
 ## Pedagocial training
