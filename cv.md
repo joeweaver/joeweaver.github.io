@@ -69,7 +69,7 @@ Symposium, Phoenix, AZ
 ## Publications
 
 A list containing abstracts and links to fulltext is [also available
-online]({{ site.url }}/publications/).#
+online]({{ site.url }}/publications/).
 
 `2021`
 Weaver, JE. (2021) "*From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.*"  Under the direction of de los Reyes III, F.L., Ducoste, J.J., Call, D.E., and Goller, C.G. PhD Dissertation, North Carolina State University, Raleigh, NC.
@@ -211,7 +211,7 @@ Research Internship Summer Experience (RISE) Program. Responsible for training a
 `2017` 
 Formed and coordinated prelim study group for graduate student cohort.
 
-`2013` Graduate mento for ungraduate research to Ally Patrick. *Thermal Acclimation of Mesosphilic Inocula for Thermophilic Biochemical Methane
+`2013` Graduate mentor for ungraduate research to Ally Patrick. *Thermal Acclimation of Mesosphilic Inocula for Thermophilic Biochemical Methane
 Potential Tests* 
 
 `2011 thru 2018` 
