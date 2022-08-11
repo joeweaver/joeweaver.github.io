@@ -43,6 +43,8 @@ MEWE 2019 Conference, Hiroshima.
 GAANN Fellow, Microbial Biotechnology Training Program. (US Department of
 Education Graduate Assistance in Areas of National Need Award \# P200A140020)
 
+### Poster Awards
+
 `2017`
 3<sup>rd</sup> place poster, *What's Driving Microbial Community
 Assembly in Full-Scale Wastewater Treatment?* NC-AWWA-WEA Annual
