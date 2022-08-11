@@ -32,6 +32,10 @@ Award 2007151.
 W. Wesley Eckenfelder Graduate Research Award for 2020 from the American
 Academy of Environmental Engineers.
 
+### Travel Grants
+`2022`
+International Society for Microbial Ecology, travel award to ISME18.
+
 `2019`
 NCSU College of Engineering Travel Award. Covering travel to the IWA MEWE
 2019 Conference, Hiroshima.
@@ -44,6 +48,8 @@ GAANN Fellow, Microbial Biotechnology Training Program. (US Department of
 Education Graduate Assistance in Areas of National Need Award \# P200A140020)
 
 ### Poster Awards
+`2021`
+Runner-up *Modeling environmental bioreactors treating wastewater by integrating biological processes, floc microenvironments, and computational fluid dynamics.* EB Network Early Career Researcher Conference, online
 
 `2017`
 3<sup>rd</sup> place poster, *What's Driving Microbial Community
@@ -64,7 +70,9 @@ Symposium, Phoenix, AZ
 
 A list containing abstracts and links to fulltext is [also available
 online]({{ site.url }}/publications/).
-
+`2021`
+Weaver, JE. (2021) "*From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.*"  Under the direction of de los Reyes III, F.L., Ducoste, J.J., Call, D.E., and Goller, C.G. PhD Dissertation, North Carolina State University, Raleigh, NC.
+	
 `2019` 
 Wu L, Ning D, Zhang B, Li Y, Zhang P, Shan X, Zhang Q, Brown MR, Li Z, Van Nostrand JD, Ling F, Xiao N, Zhang Y, Vierheilig J, Wells GF, Yang Y, Deng Y, Tu Q, Wang A, Acevedo D, Agullo-Barcelo M, Andersen GL, de Araujo JC, Boehnke KF, Bond P, Bott CB, Bovio P, Brewster RK, Bux F, Cabezas A, Cabrol L, Chen S, Etchebehere C, Ford A, Frigon D, Gómez JS, Griffin JS, Gu AZ, Habagil M, Hale L, Hardeman SD, Harmon M, Horn H, Hu Z, Jauffur S, Johnson DR, Keucken A, Kumari S, Leal CD, Lebrun LA, Lee J, Lee M, Lee ZMP, Li M, Li X, Liu Y, Luthy RG, Mendonça-Hagler LC, de Menezes FGR, Meyers AJ, Mohebbi A, Noyola A, Oehmen A, Palmer A, Parameswaran P, Park J, Patsch D, Reginatto V, de los Reyes FL, Rossetti S, Sidhu J, Sloan WT, Smith K, de Sousa OV, Stephens K, Tian R, Tooker NB, De los Cobos Vasconcelos D, Wakelin S, Wang B, Weaver JE, West S, Wilmes P, Woo S-G, Wu J-H, Wu L, Xi C, Xu M, Yan T, Yang M, Young M, Yue H, Zhang Q, Zhang W, Zhang Y, Zhou H, Zhang T, He Z, Keller J, Nielsen PH, Alvarez PJJ, Criddle CS, Wagner M, Tiedje JM, He Q, Curtis TP, Stahl DA, Alvarez-Cohen L, Rittmann BE, Wen X and Zhou J. "*Global diversity and biogeography of bacterial communities in wastewater treatment plants*". Nature Microbiology 4, 1183–1195 (2019) doi:[10.1038/s41564-019-0426-5.](https://www.doi.org/10.1038/s41564-019-0426-5) \[[bib]({{_site.url}}/bib/wu2019GWMC.bib)\]
 
@@ -101,6 +109,15 @@ Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fl
 ## Presentations and Conference Invitations
 
 ### Presented
+`2022` 
+*Fit or just luck? Using agent-based biofilm models to quantify the selection advantage required to overcome negative selection via random drift.* 1St Annual Microbiology Oylmpiad Symposium, Newcastle, UK
+
+`2021` 
+*Drift Matters, Until it Doesn’t: Quantifying the Fitness Advantage Necessary to Overcome Negative Drift Selection using an Agent-Based Model of Spatially Competing Heterotrophic Bacteria*, 9th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2021), Delft, Netherlands. (presented virtually)
+
+`2021`
+*Implementing a Single Modeling Approach that Combines Computational Fluid Dynamics (CFD), Biokinetics, Micro-floc Scale Diffusion, and Particle Sizes.* WEFTEC, Chicago IL. (n.b. J. Ducoste presented on Weaver’s behalf due to conference schedule conflicts)
+
 `2019`
 *Microbial Community Assembly in Two Full Scale Aerobic Basins Containing Identical Starting Populations: Drivers and Implications*, 8th IWA Microbial Ecology and Water Engineering Specialist Conference (MEWE2019), Hiroshima, Japan.
 
@@ -120,16 +137,31 @@ Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fl
 *Development of a protocol to test the anaerobic biodegradability of plastics.*
 (Department nominated poster presenter) NCSU Graduate Student Symposium, Raleigh, NC.
 
-### Invited Conferences
-`2020`
-Microbial ecology for engineering biology, the Theo Murphy international scientific meeting of The Royal Society, Buckinghamshire UK. *n.b. conference cancelled due to COVID-19*
+### Invited Seminars and Conferences
 
-## Certificates
-`2019`
-Teaching and Communication Certificate (Completed)
+`2022`
+*Inferring Drift Prevalence Using Agent-Based Biofilm Models and Its Implications in Environmental Biotechnology* Les Ecologistes Seminar Series, Simon Fraser University, Burnaby, CA (presented remotely)
+
+`2022` 
+Session Chair. Microbial ecology for engineering biology, the Theo Murphy international scientific meeting of The Royal Society, Buckinghamshire UK. 
+
+`2021` 
+*From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.* Environmental Engineering Research Group Seminar Series, Newcastle University, Newcastle UK
+
+
+## Pedagocial training
+`2022`
+Data and Software Carpentries Instructor Training Program
+
+`2019`	
+Completed the NCSU Teaching and Communication Certificate.
+
 
 ## Teaching
 ### Teaching assistant
+`Spring 2021`
+CE 774 - Environmental Biotechnology
+
 `Spring 2019`
 CE 481 - Senior Design Project
 
@@ -155,11 +187,23 @@ BIT 495 - Metagenomics.  Guest lectures on ordination and data visualization.
 `Falls 2014-2017`
 CE 378 - Environmental chemistry and microbiology. Facilitated lab on identifying problem orgranisms in wastewater via microscopy. 
 
-### Internal training
-`2014`
-*Laziness, Levers, and Literature: How to search and manage the literature.* NCSU CCEE Department Seminar.
+### Internal Workshops Organized
+`2022`
+Peer and Expert MSc Oral Defense Feedback Session, Newcastle University Environmental Engineering MSc Program
 
-### Mentoring
+`2022`
+Performing an Effective Literature Search, Newcastle University Environmental Engineering MSc Professional Development, special workshop
+
+`2022`
+Constructing an Individual Development Plan Newcastle Environmental Engineering Early Career Researcher Development
+
+`2014`
+Laziness, Levers, and Literature. How to search and manage the literature. NCSU CCEE Department Seminar.
+
+### Formal Mentoring
+`2022`
+MSc Supervisor to Xiaoqi Yu, working title *Creation of a Pairwise Interaction Database of Antibacterial Type VI Secretion Systems*
+
 `Summer 2016 - 2018`
 Research Internship Summer Experience (RISE) Program. Responsible for training and mentoring undergraduate researchers while they performed their own summer research culuminating in poster presentation.
 
@@ -193,17 +237,32 @@ Invited panel member, “Tell It Like It Is”: Teaching Assistant Discussion Pa
 `2015`
 Chair, program committee. NCSU CCEE WREE Graduate Research Symposium. 
 
-### Professional Organizations
-* American Society for Microbiology (ASM)
-* Water Environment Federation (WEF)
-* North Carolina American Water Works Association - Water Environment Association (NC AWWA-WEA)
+### Current Professional Organizations
+* International Water Association
+* International Society for Microbial Ecology
 
 ## Grantwriting 
-### As Primary Investigator
+### As Primary Investigator or Fellow
 `2019`
 Weaver, Joseph E. *Individual Based Modelling of Chemically Mediated Microbial Interactions in Biofilms.* NSF-Postdoctoral Research Fellowship in Biology ***(Awarded NSF 2007151)***
 
+`2014`
+Weaver, Joseph E. *Microbial Biotechnology Training Program, Graduate Assistance in Areas of National Need.*  US Department of Education ***(Awarded DoE GANN P200A140020)***
+
+### As mentor for undergraduate research
+'2013'
+Joseph E., Patrick, Ally *Thermal Acclimation of Mesosphilic Inocula for Thermophilic Biochemical Methane Potential Tests.*  ***(Awarded)***
+
 ### Contributing writer
+`2022`
+Zuliani, P., Li, B., and Curtis, T.P. *NUFEB: Microbial Communities Simulation for the (Biologists) Masses* EPSRC
+
+`2021`
+Zuliani, P, Li. B., Allen, B., and Curtis, T.P. *BIOHPC: Simulating Microbial Communities on High-Performance Computers* EPSRC IAA ***(Awarded)***
+
+`2021`
+Curtis, T.P., Allen, B., and Zuliani, P. *Accelerating Innovation By Designing Water Treatment Biofilm Media in silico.* NBIC PoC ***(Awarded)***
+
 `2017`
 de los Reyes III, Francis L. and Ducoste, Joel J. *Using Microbial Ecology Theory to Understand Microbial Community Dynamics and Improve Function of Anaerobic Bioreactors.* NSF.***(Awarded)***
 
@@ -214,6 +273,12 @@ de los Reyes III, Francis L. *Understanding substrate-community interactions to 
 de los Reyes III, Francis L. and Ducoste, Joel J. *WERF: Microbial ecology theory as a framework for understanding and improving anaerobic co-digestion.* NSF.
 
 ## Professional Development
+### Certificates
+`2022`
+EBNET Metabolic Modelling 
+
+`2019`	
+NCSU Teaching and Communication Certificate
 
 ### Microbial Biotechnololgy Training Program, US Department of Education Graduate Assistance in Areas of National Need 
 `2016` 
