@@ -24,15 +24,22 @@ __Cornell University__
 BS, Electrical Engineering
 
 ## Awards and Fellowships
-`2020`
+`2021`
 Postdoctoral Research Fellowship in Biology, National Science Foundation. NSF
 Award 2007151.
 
 `2020` 
 W. Wesley Eckenfelder Graduate Research Award for 2020 from the American
-Academy of Environmental Engineers.
+Academy of Environmental Engineers and Scientists/Association of Environmental Engineering Scientists and Professors
+
+`2014-2017`
+GAANN Fellow, Microbial Biotechnology Training Program. (US Department of
+Education Graduate Assistance in Areas of National Need Award \# P200A140020)
 
 ### Travel Grants
+`2023`
+Federation of European Microbiological Societies, travel to FEMS 2023.
+
 `2022`
 International Society for Microbial Ecology, travel award to ISME18.
 
@@ -42,10 +49,6 @@ NCSU College of Engineering Travel Award. Covering travel to the IWA MEWE
 
 `2019` NCSU Graduate Student Association Travel Award. Covering travel to the IWA
 MEWE 2019 Conference, Hiroshima.
-
-`2014-2017`
-GAANN Fellow, Microbial Biotechnology Training Program. (US Department of
-Education Graduate Assistance in Areas of National Need Award \# P200A140020)
 
 ### Poster Awards
 `2021`
@@ -70,6 +73,8 @@ Symposium, Phoenix, AZ
 
 A list containing abstracts and links to fulltext is [also available
 online]({{ site.url }}/publications/).
+
+`2023` Weaver, JE. (2023) "*Quantifying drift-selection balance using an agent-based model of identical heterotrophs under low nutrient conditions.*" Royal Society Interface Focus. *In press*
 
 `2021`
 Weaver, JE. (2021) "*From Floc to Reactor Scales: A Multi-Faceted Investigation Integrating Microbial Ecological Experiments and Computational Modeling to Understand Aerobic Wastewater Systems.*"  Under the direction of de los Reyes III, F.L., Ducoste, J.J., Call, D.E., and Goller, C.G. PhD Dissertation, North Carolina State University, Raleigh, NC.
@@ -101,6 +106,12 @@ conditions.*" Current Opinion in Biotechnlogy v33, pp 112-118. doi:[10.1016/j.co
 Weaver, JE, "*Effect of Inoculum Source on the Rate and Extent of Anaerobic
 Biodegradation*" Under the direction of Barlaz, MA and de los Reyes III, FL. MS Thesis, North Carolina State University, Raleigh, NC. \[[bib]({{ site.url}}/bib/weaver2013effect.bib)\]
 
+
+### In Submission
+Weaver, JE and Zuliani, P and Chen, J. and Mcgough, S and Li, B and Ofiteru, ID and Wipa, A and Davenport, R and Swailes, D and Curtis, TP "*Accelerating environmental bioreactor design: Why your care and phone are getting faster than your sewage works and anaerobic digester*" Environmental Science and Technology (viewpoint)
+
+Haq, A and Malik, A and Khan, A and Weaver, JE and Wang, L and Khan, H and Shah, S and Ahmed, AA and de los Reyes III, FL and Badshah, M "*Effect of removal of inhibitors on microbial communities and biogas yield of Jatropha curcas during continuous anaerobic digestion.*" Reneweable Sustainable Energy Reviews
+
 ### In Preparation
 Weaver, JE and Ducoste, JJ and de los Reyes III, FL "*Stochastic and niche-driven community assembly between two full-scale wastewater
 treatment plants With initially identical microbial communities*"
@@ -110,6 +121,11 @@ Weaver, JE and Ducost, JJ and de los Reyes III, FL "*A combined computational fl
 ## Presentations and Conference Invitations
 
 ### Presented
+`2023` 
+Weaver, J.E. *Understanding the balance between drift and selection in biofilm formation using agent-based biofilm modelling.* Association of Environmental Engineering Scientists and Professors (AEESP) Conference 2023, Boston, US.
+
+`2023` 
+Weaver, J.E. *Illuminating the balance between drift and kinetics in biofilm formation using an agent-based model to maniuplate luck.* Federation of European Microbial Societies (FEMS) Conference 2023. Hamburg, Germany (poster)
 `2022` 
 Weaver, J.E. *Fit or just luck? Using agent-based biofilm models to quantify the selection advantage required to overcome negative selection via random drift.* 1St Annual Microbiology Oylmpiad Symposium, Newcastle, UK
 
@@ -178,6 +194,15 @@ CE 484 - Water Supply and Wastewater Systems.
 CE 573 - Biological Principles of Environmental Engineering.
 
 ### Course Guest lectures
+`Spring 2023`
+CEG 8110 - Project skills and professional development. Efficiently conducting a literature review.
+
+`Spring 2023`
+CEG 8110 - Project skills and professional development. Introduction to coding in Python.
+
+`Spring 2023`
+CEG 8104 - Wastewater Engineering. Solving wastewater design problems via Python. (Computer lab practical)
+
 `Spring 2015 - Fall 2018`
 BIT 495 - Metagenomics.  Guest lectures on ordination and data visualization.
 
@@ -198,8 +223,14 @@ Constructing an Individual Development Plan Newcastle Environmental Engineering 
 Laziness, Levers, and Literature. How to search and manage the literature. NCSU CCEE Department Seminar.
 
 ### Formal Mentoring
+`2023 - present`
+PhD Co-Supervisor to Xiaoqi Yu, working title *Spatio-temporal antimicrobial resistance (AMR) patterns in catchments and AMR attenuation within green infrastructure*
+
+`2023 - present`
+MSc Supervisor to Hongze Li, working title *Screening competition between bacteria relevant to environmnetal biotechnology*
+
 `2022`
-MSc Supervisor to Xiaoqi Yu, working title *Creation of a Pairwise Interaction Database of Antibacterial Type VI Secretion Systems*
+MSc Supervisor to Xiaoqi Yu, *Creation of a Pairwise Interaction Database of Antibacterial Type VI Secretion Systems*
 
 `Summer 2016 - 2018`
 Research Internship Summer Experience (RISE) Program. Responsible for training and mentoring undergraduate researchers while they performed their own summer research culuminating in poster presentation.
@@ -215,16 +246,20 @@ Multiple undergraduate research assistants.
 
 ## Community
 ### Peer Review
-Four articles reviewed for *Water Science & Technology*, *Waste Managment*, and *Journal of Environmental Engineering*.
+`2013-203`
+Articles reviewed for multiple journals, including *Water Science & Technology*, *Waste Managment*, and *Journal of Environmental Engineering*, *Royal Society Interface Focus*.
 
 ### Outreach
-`2013 - 2016`
-Boy Scouts of America engineering day
-
 `2017 - 2018`
 Girl Scouts of America  engineering day
 
+`2013 - 2016`
+Boy Scouts of America engineering day
+
 ### Service
+`2023-present`
+Postgrad member of Newcastle University environemntal engineering seminar committee.
+
 `2019-2020`
 Lab group representative, Environmental Engineering Lab Condition and Safety Committee
 
