@@ -31,6 +31,8 @@ Teaching is an essential component of academic life and while I do not believe t
 
 While another page explains my general [teaching philosophy](/teaching), a particular interest of mine is interactive tutorial sessions, such as one allowing students to [learn basic data analysis of microbial metagenomic studies](https://github.com/joeweaver/get_to_know_phyloseq).
 
+I'm also interested in using real-world research to form 'engagement hooks' for secondary school students. Recently, I've developed a 'virtual lab', aligned to national curricula, where students learn about ecological tradeoffs by playing with a web-based pre-solved agent based models of Type VI Secretion systems. The public demo (not suitable for phones) is available here: [https://raw.githack.com/joeweaver/t6ss-outreach/main/welcome.html](https://raw.githack.com/joeweaver/t6ss-outreach/main/welcome.html)
+
 ## Previous Projects
 ### Shear-induced bioaggregation 
 The local shear microenvironment is a key parameter affecting biological particles. It influences local substrate concentrations, induces bacterial physiological responses, and physically shapes particles though erosion, fragmentation, aggregation.
