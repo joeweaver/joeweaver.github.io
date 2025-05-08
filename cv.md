@@ -1,7 +1,8 @@
 ---
 layout: resume
 ---
-[PDF version](cv.pdf)
+The web version of my CV is currently being brought up to date. For an current CV, please see the [PDF version](cv.pdf)
+
 ## Currently
 NSF Postdoctoral Fellow at Newcastle University.
 
