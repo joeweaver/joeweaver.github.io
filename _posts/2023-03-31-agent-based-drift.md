@@ -3,7 +3,7 @@ layout: publication
 title: Quantifying drift-selection balance using an agent-based biofilm model of identical heterotrophs under low nutrient conditions.
 excerpt: "Manipulating luck in a biofilm model to figure when random chance beats out selection"
 pubtype: Article
-directlink: 
+directlink: https://doi.org/10.1098/rsfs.2023.0010
 authors: [Joseph E. Weaver]
 tags: [agent-based model, microbial community assembly, drift, biofilm, NUFEB]
 comments: true
