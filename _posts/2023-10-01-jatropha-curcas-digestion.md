@@ -3,7 +3,7 @@ layout: publication
 title: Effect of removal of inhibitors on microbial communities and biogas yield of Jatropha curcas seeds during continuous anaerobic digestion
 excerpt: "Enhanced biomethane production from an inedible feedstock which grows on marginal land."
 pubtype: Article
-directlink: 
+directlink: https://www.sciencedirect.com/science/article/pii/S0959652623033127
 authors: [Abdul Haq, Ayesha Malik, Alam Khan, Joseph E. Weaver, Ling Wang, Haji Khan, Samiullah Khan, Aamer Ali Shah, Safia Ahmed, Asif Jamal, Francis L. de los Reyes III, Malik Badshah ]
 tags: [anaerobic digestion, microbial community, biogas, pre-treatment]
 comments: true
