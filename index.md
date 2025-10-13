@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a Senior Research Associate working at Newcastle University with Dr. Tom Curtis as part of the UKRI [Environmental Biotechnlogy Innovation Centre](https://ebicentre.co.uk/) (EBIC). I am interested in improving microbially mediated systems, especially those concerning waste treatment, by using skills at the intersection of ecology, microbial biotechnology, and software engineering.
+I am an Assistant Professor at Newcastle University working on microbiome modelling within the [SMART Soils lab](https://www.durham.ac.uk/research/current/strategic-research-fund/smart-soils/). I am interested in understanding microbial interactions with plants and within the soil, by using skills at the intersection of microbial ecology, engineering, and software development. The ultimate goal is to use that understanding to regenerate soils, whether agricultural, urban, or wild.
 
 At home, I'm interested in good food, bad movies, and a variety of books.
 
@@ -12,8 +12,7 @@ At home, I'm interested in good food, bad movies, and a variety of books.
 - Microbial community assembly
 - Agent based modelling of microbial communities
 - Type VI Secretion Systems (a.k.a. poison-tipped bacterial harpoons)
-- Combined CFD-biokinetic modelling
-- Shear-induced bioaggregation 
+- Translating biostimulation and bioagumentation from the lab to the field
 - Enhanced pedagogical techniques
 
 You can read more details on my [research](/research) page.
