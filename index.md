@@ -19,7 +19,7 @@ You can read more details on my [research](/research) page.
 
 ## Working with Me
 
-I am currently recruiting students; while I do not have existing funding for a student there are always ongoing fudning calls which we can work on together. If you are interested in soil restoration and the role microbiology can play, feel free to introduce yourself through my Durham email address at [joseph.e.weaver@durham.ac.uk](mailto:joseph.e.weaver@durham.ac.uk).
+I am currently recruiting students; while I do not have existing funding for a student there are always ongoing funding calls which we can work on together. If you are interested in soil restoration and the role microbiology can play, feel free to introduce yourself through my Durham email address at [joseph.e.weaver@durham.ac.uk](mailto:joseph.e.weaver@durham.ac.uk).
 
 ## Education
 
