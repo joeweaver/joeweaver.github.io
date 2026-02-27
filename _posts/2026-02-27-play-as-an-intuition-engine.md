@@ -5,6 +5,7 @@ description: "A reflection on play as a tool for intuition-building in STEM, edu
 tags: [play, education, policy, intuition, COST, PRFB]
 comments: true
 category: blog
+permalink: /blog/play-as-an-intuition-engine/
 ---
 
 Blog Idea: Play as an Intuition Engine 
