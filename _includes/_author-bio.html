@@ -18,7 +18,7 @@
     {% if author.pronouns %}{{ author.pronouns }}</br>{% endif %}
  </p>
  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
-  {% if author.department %}<a href="{{ author.deparment }}" class="author-social" target="_blank"><i class="fa fa-fw fa-bsky-square"></i> Staff Page </a>{% endif %}
+  {% if author.department %}<a href="{{ author.department }}" class="author-social" target="_blank"><i class="fa fa-fw fa-bsky-square"></i> Staff Page </a>{% endif %}
   {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.bsky %}<a href="https://bsky.app/profile/{{ author.bsky }}" class="author-social" target="_blank">BSky</a>{% endif %}
   {% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
