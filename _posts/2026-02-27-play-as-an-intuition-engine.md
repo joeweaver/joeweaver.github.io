@@ -20,6 +20,17 @@ I also, perhaps controversially, do not consider play to be necessarily ‘fun�
 
 This same pattern, where approachable systems encourage experimentation, appeared when I began thinking about my own outreach based on my research at the time. I was (and am!) very interested in tiny poison-tipped spears used by some bacteria (the Type VI Secretion System) and I've modelled scenarios with  those spears in computer simulations where 100’s of thousands of individual bacteria are simulated. None of those topics are likely to be found in any national curriculum, but they touch on many concepts which are present: forming and testing predictions, understanding figures, knowing that trade-offs are fundamental to ecological strategies.  I created a ‘virtual lab’ using pre-run simulations where students can ‘play’ with parameters, particularly the energetic cost of maintaining poison-tipped spears. ([demo](https://raw.githack.com/joeweaver/t6ss-outreach/main/welcome.html), not mobile friendly:, [code repo](https://github.com/joeweaver/t6ss-outreach) ). As the students go through the lesson, they develop an intuition for how the system behaves, and the capping activity is to test a hypothesis about tipping points in ecological strategies. This experience convinced me that simplified, interactive systems can create intuition even in complex domains, which suggests a broader applicability beyond education. 
 
+<figure>
+<video  muted playsinline style="max-width: 100%; height: auto;">
+  <source src="/assets/outreach_t6ss_a.webm" type="video/webm">
+  <source src="/assets/outreach_t6ss_a.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+ </video>
+  <figcaption>Exploring ecological trade-offs using pre-simulated biofilms.</figcaption>
+</figure>
+
+
+
 Similar ‘playful sandboxes’ can be used to help policymakers and regulators develop an intuitive understanding of complex systems, to be used as a complement to data-driven decision making. While policies should not be made on gut instinct, neither should they be made blindly based on models, all of which famously lie. Unlike traditional scenario tools, which aim to answer specific predictive questions, these sandboxes are designed to show structural relationships and trade-offs in a way that is exploratory rather than prescriptive.  
 
 There are two ways, somewhat overlapping, in which intuition, derived from play, can provide context to policymakers: domain familiarity and scenario exploration. 
