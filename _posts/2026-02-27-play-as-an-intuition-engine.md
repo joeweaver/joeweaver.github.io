@@ -33,11 +33,29 @@ Similar ‘playful sandboxes’ can be used to help policymakers and regulators 
 
 There are two ways, somewhat overlapping, in which intuition, derived from play, can provide context to policymakers: domain familiarity and scenario exploration. 
 
-Domain familiarity allows subject matter experts and policymakers to speak a common language. While this includes terms and jargon, it also includes the ability to understand broad concepts and data visualisations used in the domain. Policy makers working on ecological issues would, after playing, recognise terms like ‘beta diversity’, figures like an ordination plot, and develop the instinct to ask questions regarding context, like whether seasonality is relevant. 
+Domain familiarity allows subject matter experts and policymakers to speak a common language. While this includes terms and jargon, it also includes the ability to understand broad concepts and data visualisations used in the domain. Policy makers working on ecological issues would, after playing, recognise terms like ‘beta diversity’, figures like an ordination plot (as below), and develop the instinct to ask questions regarding context, like whether seasonality is relevant. 
+
+<figure>
+<video controls muted playsinline style="max-width: 100%; height: auto;">
+  <source src="/assets/ordination.webm" type="video/webm">
+  <source src="/assets/ordination_ppt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+ </video>
+  <figcaption>Interactively understanding how an ordination plot conveys (dis)similar samples.</figcaption>
+</figure>
 
 Scenario exploration goes towards understanding interactions within the system. In this context, sandboxes would provide controls which allow users to adjust strategies and the underlying scenario.  A crucial difference from data driven models is that these systems can use simplified models with hypothetical but realistic data and parameters defining relationships, because the goal is not to predict outcomes but to let users experiment with general system dynamics. This is particularly useful for instances where the ‘real’ models are too expensive to power the sandbox. It is also useful for the many situations where a truly predictive model simply does not yet exist or is not sufficiently general..   Even where such models are available, the user facing portion of a sandbox  powered by that model will generally be different when the goal is to generate broad understanding rather than specific quantitative predictions. 
 
-As an example of scenario exploration, consider a sandbox created to help a regulator understand the trade-offs between rapidly deployable and scalable, but somewhat inaccurate, tests vs, much more accurate, but less logistically scalable tests. In the context of detecting contaminated food lots, the user can see how in one case the lower fidelity test kit results in a large amount of food waste due to false positives but prevents many illnesses when compared to the accurate kit, and that this due to various interacting factors. By playing with those factors and the underlying contamination rate, the user can develop an intuitive grasp of a major concept: no analysis is necessarily always ‘best’. 
+As an example of scenario exploration, consider a sandbox (video below) created to help a regulator understand the trade-offs between rapidly deployable and scalable, but somewhat inaccurate, tests vs, much more accurate, but less logistically scalable tests. In the context of detecting contaminated food lots, the user can see how in one case the lower fidelity test kit results in a large amount of food waste due to false positives but prevents many illnesses when compared to the accurate kit, and that this due to various interacting factors. By playing with those factors and the underlying contamination rate, the user can develop an intuitive grasp of a major concept: no analysis is necessarily always ‘best’. 
+
+<figure>
+<video controls muted playsinline style="max-width: 100%; height: auto;">
+  <source src="/assets/outbreak.webm" type="video/webm">
+  <source src="/assets/outbreak_ppt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+ </video>
+  <figcaption>Exploring the trade-offs between diagnostic test types during a hypothetical food contamination event.</figcaption>
+</figure>
 
 One danger with scenario exploration is in its misuse as a predictive model. The user should not use a sandbox to generate quantitative rules. For example, if the regulator noted the threshold false positive rate in which low-accuracy tests are preferred, they might codify that value into a real-world rule. This can be mitigated with clear messaging about the intended purpose, including explicit in-system text such as “Simulation output is not predictive, for training purposes only.” It also helps to design the interface so it does not imply unwarranted precision, for example by avoiding unnecessary numerical detail (including avoiding numbers altogether), using simplified or illustrative units, and presenting results informally rather than as formal analysis. 
 
