@@ -8,8 +8,6 @@ category: blog
 permalink: /blog/play-as-an-intuition-engine/
 ---
 
-Blog Idea: Play as an Intuition Engine 
-
 Anyone who has had a kitten or puppy knows just how energetic and playful they can be. Although this play can be endearingly cute, that is not its purpose. In fact, for their undomesticated cousins, it is a matter of life and death. Through instinctive play, our pets are honing skills crucial to stalking prey, working in a group, and establishing social hierarchies. 
 
 Cats and dogs aren’t the only small mammals which engage in play, as any parent can attest. While children playing in a sandbox aren’t learning to hunt prey, they are still developing deep intuition about the world, in this sense, they represent the same basic process playing out in a different developmental context; there are differences between wet and dry sand, you can only dig so deep and build so high, tools help us build, sharing tools with playmates can be useful. 
