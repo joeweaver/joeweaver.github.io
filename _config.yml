@@ -18,14 +18,15 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   bksy: joeeweaver.bsky.social
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/joe-weaver-3b1a005/
   github: joeweaver
   orcid: 0000-0003-3361-2946
   researchgate: Joseph_Weaver4
+  department: https://www.durham.ac.uk/staff/joseph-e-weaver/
   mendeley: #username
   google:
     plus: #username
-    analytics: UA-139069085-1
+    analytics: 
     verify:
     scholar: Qi_1EcAAAAAJ 
   facebook: #username
